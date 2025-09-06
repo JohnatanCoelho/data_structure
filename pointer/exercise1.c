@@ -23,5 +23,7 @@ void main(){
     printf("%d \n", *pnum2);
     printf("%c", *pplv);
 
+    
+
 
 }
