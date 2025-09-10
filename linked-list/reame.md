@@ -4,17 +4,16 @@ Linked list exercises, containing practice and validation content with Professor
 
 ## Exercise 1
 
-### Link Acess Code
-
+### Access exercise 1
+[Exercise 1](https://github.com/JohnatanCoelho/data_structure/blob/main/linked-list/exercise1.c)
 
 ### Table test
 
-<img src="assets/exercise-01-linked-list.jpg" width = "30%">
+<img src="assets/exercise-01-linked-list.jpg" width = "40%">
 
 ### Code
 
-```
-
+```c
 #include <stdlib.h>;
 #include <stdio.h>; 
 
